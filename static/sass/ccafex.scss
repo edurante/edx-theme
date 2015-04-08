@@ -43,14 +43,9 @@ $black-80: #585858;
 //  Font Assignment
 //-----------------
 
-$theme-sans-font: 'Source Sans';
-$sans-serif: $theme-sans-font, $sans-serif;
-$body-font-family: $sans-serif;
-
-$theme-serif-font: 'Crimson Text';
-$serif: $theme-serif-font, $serif;
-
-
+$theme-serif-font: 'Arial';
+$serif: $theme-serif-font, "Helvetica", sans-serif;
+$f-serif: $serif;
 
 
 //-----------------
